@@ -24,7 +24,7 @@ body{
 }
 
 main {
-    background-color: #353535;
+    background-color: #fff;
 }
 
 #columns{
@@ -32,13 +32,13 @@ main {
 }
 
 #header, #footer {
-    background-color: #5a5a5a;
+    background-color: #e1e1e1;
     height: 200px;
 }
 
 section h2{
     text-align: center;
-    color: darkgrey;
+    color: #282828;
 }
 
 p {
