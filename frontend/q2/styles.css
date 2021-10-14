@@ -49,6 +49,18 @@ article {
     padding: 12px 15px;
 }
 
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+.logs-table {
+    margin: 0 auto;
+}
+
 #footer .container,
 #header .container {
     align-items: center;
